@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" width="200" alt="Logo"></p>
+
 ---
 license: mit
 task_categories:
